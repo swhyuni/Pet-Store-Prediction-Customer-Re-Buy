@@ -1,0 +1,1 @@
+["product_category", "country", "pet_size", "pet_type"]
